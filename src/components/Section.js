@@ -13,7 +13,7 @@ const Section = () => {
                     <Counting />
                 </div>
                 <div>
-                    <h1 className="signIn">Sign into explore New CAMPAIGNS!</h1>
+                    <h1 className="signIn">Sign in to explore New CAMPAIGNS!</h1>
                     <Form />
                 </div>
             </div>
